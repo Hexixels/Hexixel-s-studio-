@@ -9,7 +9,7 @@
 ## ||-Table Of Contents (because my fingers hurt from rolling the wheel)
 ***consadhgds i give up just use the fucking inbuilt one pls***  
 ## ||-Projects?
-* **Clearvision Hanabi Theme (20th April)**
+* **Clearvision [Hanabi Theme](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/HanabiVision) (20th April)**
   
    simply a tweaked version aki's community present of clearvision made for my annoying asf friend (if you see this then fuck you)  
   ![alt text](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/HanabiVision/previewhanabitheme.png "preview")  
