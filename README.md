@@ -6,7 +6,7 @@
    say hi to ereerrrrrrrrrrrrrrrrr er  
   ![alt text](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/README-DATA/fine-art "i drew this")
   my art (trust me)
-## ||-Table Of Contents (because my fingers hurt from rolling the wheel)-|
+## ||-Table Of Contents (because my fingers hurt from rolling the wheel)
 
 ## ||-Projects?
 ## ||-Checklist
