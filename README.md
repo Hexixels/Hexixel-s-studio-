@@ -7,7 +7,8 @@
   ![alt text](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/README-DATA/fine-art "i drew this")
   my art (trust me)
 ## ||-Table Of Contents (because my fingers hurt from rolling the wheel)
-
+***consadhgds***  
+* [contexto](https://github.com/Hexixels/Hexixel-s-studio-?tab=readme.ov.file#-hexixel-s-studio-hi-welcome)
 ## ||-Projects?
 ## ||-Checklist
 ## ||-Fun Tab
