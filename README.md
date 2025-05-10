@@ -11,10 +11,11 @@
 ## ||-Projects?
 * **Clearvision Hanabi Theme (20th April)**
   
-   simply a tweaked version aki's community present of clearvision made for my annoying asf friend (if you see this then fuck you)
-  
+   simply a tweaked version aki's community present of clearvision made for my annoying asf friend (if you see this then fuck you)  
+  ![alt text](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/HanabiVision/previewhanabitheme.png "preview")  
+   i simply used aki's code and edited the colors and spacing for my own purposes (love you aki)  
 * nothing yet btw
 ## ||-Checklist
 ## ||-Fun Tab
-### ||--quotes from people
+* ***quotes from people***
 
