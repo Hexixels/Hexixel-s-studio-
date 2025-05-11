@@ -22,13 +22,19 @@
 
 **| **DOUBLE PS: USE ⚪ FOR SCRAPPED** |**
 
-* Make Your Own Discord Theme [🟡]
-   1. something []
-   2. list hu []
-   3. boom! []
+* my own discord theme(Unnamed) [🟡]
+   1. Layout(V1) [🟡]
+
+      I Believe This Layout To Be Finished AS OF NOW, It Is Indeed Rescalable With The Window, Janky But It Works
+   2. Compatibility [🟢]
+
+      Imported My Clearvision Theme Into It, And It Looks Great With Tweaks On The Title Bar
+   3. Gimmicks & QoL [🔴]
+
+      Currently Thinking, I Need To Finish The Layout's Scalability Before Getting To QoL Adjustments
 * another thing
    1. bang
 
 ## ||-Fun Tab
 * ***quotes from people***
-   1. "" ~
+   1. "WHY THE FUCK DOES THE SERVERLIST NOT HAVE A DEFINED HEIGHT??" ~Hex(me)
