@@ -1,5 +1,5 @@
 # ||-Hexixel-s-studio (hi!!!! welcome!!)
-## ||-Context pls wheressda???
+## ||-Context???
 ***i love sprinklers***
 * *Alterations* Of ***Code From Others***, Mostly Used For *Discord CSS*, **Please Contact Me On Discord If You Want Something Taken Down.** (with proof its yours btw)
 * This is a *blank* canvas for me to **mess around**, im just making this ***so sorting code is easier!!!***
