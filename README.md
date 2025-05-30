@@ -10,18 +10,12 @@
 ## ||-Table Of Contents (because my fingers hurt from rolling the wheel)
 ***consadhgds i give up just use the fucking inbuilt one pls***  
 ## ||-Projects?
-***Mostly Discord Themes, Idk!!***
+***Mostly Discord Themes, because im that LAZY!!***
 * **Clearvision [Hanabi Theme](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/HanabiVision) (20th April)**
   
    simply a tweaked version aki's community present of clearvision made for my annoying asf friend (if you see this then fuck you)  
   ![alt text](https://github.com/Hexixels/Hexixel-s-studio-/blob/main/HanabiVision/previewhanabitheme.png "preview")  
    i simply used aki's code and edited the colors and spacing for my own purposes (love you aki)  
-* nothing yet btw
-## ||-Checklist
-***|| PS: USE 🟢/🟡/🔴(yes the traffic lights) TO MARK COMPLETION ||***
-
-**| **DOUBLE PS: USE ⚪ FOR SCRAPPED** |**
-
 * my own discord theme(Unnamed) [🟡]
    1. Layout(V1) [🟡]
 
@@ -29,9 +23,16 @@
    2. Compatibility [🟢]
 
       Imported My Clearvision Theme Into It, And It Looks Great With Tweaks On The Title Bar
-   3. Gimmicks & QoL [🔴]
+   3. Window Scaling, Resizable Adaptability [🔴]
+
+      Changing Css Units/Using % To Bruce Force A Janky Theme?
+   4. Gimmicks & QoL [🔴]
 
       Currently Thinking, I Need To Finish The Layout's Scalability Before Getting To QoL Adjustments
+## ||-Checklist
+***|| PS: USE 🟢/🟡/🔴(yes the traffic lights) TO MARK COMPLETION ||***
+
+**| **DOUBLE PS: USE ⚪ FOR SCRAPPED** |**
 * another thing
    1. bang
 
