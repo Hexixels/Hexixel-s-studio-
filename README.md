@@ -25,11 +25,11 @@
 * my own discord theme(Unnamed) [🟡]
    1. Layout(V1) [🟡]
 
-      I Believe This Layout To Be Finished AS OF NOW, It Is Indeed Rescalable With The Window, Janky But It Works
+      I Believe This Layout To Be Finished AS OF NOW, However, Fixes Require Additional Containers To Be Scalized
    2. Compatibility [🟢]
 
       Imported My Clearvision Theme Into It, And It Looks Great With Tweaks On The Title Bar
-   3. Window Scaling, Resizable Adaptability [🔴]
+   3. Window Scaling, Resizable Adaptability [🟢]
 
       Currently Tinkering With CSS Units to fix Scaling Issues
    4. Gimmicks & QoL [🔴]
